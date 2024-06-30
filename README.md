@@ -1,0 +1,2 @@
+# Typijng-game-
+Javascript project 
